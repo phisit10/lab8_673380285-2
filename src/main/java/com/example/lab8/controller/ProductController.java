@@ -50,7 +50,6 @@ public class ProductController {
         return "redirect:/products";
     }
 
-    // แสดงฟอร์มแก้ไข
     @GetMapping("/edit/{id}")
     public String showEditForm(@PathVariable Long id, Model model) {
         Product product = productService.findById(id)

@@ -12,7 +12,7 @@
     <relativePath/>
   </parent>
 
-  <!-- ⚠️ แก้ artifactId เป็น lab8-{รหัสนักศึกษา}-sec{section} ก่อนส่ง -->
+  
   <groupId>com.example</groupId>
   <artifactId>lab8-673380285-2-sec2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
